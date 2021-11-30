@@ -1,4 +1,4 @@
-A Decomposition based on Constrained Clustering Algorithm for Job-shop Sccheduling
+A Decomposition based on Constrained Clustering Algorithm for Job-shop Scheduling Problem
 ==============================
 
 This folder contains the implementation of the paper "Decomposition-based job-shop scheduling with constrained clustering".
